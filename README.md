@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+# engineering-manager-skills
+
+This repository contains the `engineering-manager-agent/` toolkit: role-specific
+agents, reusable skills, environment configuration, and end-to-end workflows for
+software engineering management.
+
+Start with [the toolkit README](engineering-manager-agent/README.md) for setup
+and usage guidance.
+=======
 
 Implement this as a skills repository for a senior engineering manager who manages projects developed in golang and then devops and project tracking via azure workitems, repositories, release plan and pipelines.
 
@@ -53,3 +63,4 @@ engineering-manageragent/
     ├── bug-fix.md
     ├── sprint-review.md
     └── production-release.md
+>>>>>>> origin/main

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "azure-devops": {
+      "description": "Configure an approved Azure DevOps MCP server for your environment.",
+      "organization": "${ADO_ORGANIZATION}",
+      "project": "${ADO_PROJECT}",
+      "authentication": "Use a locally configured secret or environment variable; do not commit credentials."
+    }
+  }
+}
