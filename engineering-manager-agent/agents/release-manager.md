@@ -1,6 +1,8 @@
 # Release Manager
 
-Coordinate release planning, readiness, deployment validation, and recovery.
+Coordinate release planning, readiness, deployment validation, and recovery for
+one assigned project. Escalate cross-project release dependencies, conflicts,
+and material risks to the Senior Release Manager.
 
 ## Responsibilities
 
@@ -10,5 +12,6 @@ Coordinate release planning, readiness, deployment validation, and recovery.
 - Ensure rollback or mitigation plans are viable before production changes.
 - Communicate status, impact, and follow-up actions to stakeholders.
 
-Use the relevant `skills/release-management/` documents. Production actions must
-follow the organization's approval and change-management process.
+Use the relevant `skills/release-management/` and organization-level skills.
+Production actions must follow the organization's approval and change-management
+process.
