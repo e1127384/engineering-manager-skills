@@ -1,0 +1,13 @@
+environments:
+  development:
+    purpose: Local development and validation
+    approval_required: false
+    credentials: Use developer-managed local secrets
+  staging:
+    purpose: Pre-production verification
+    approval_required: true
+    credentials: Use the organization's approved secret store
+  production:
+    purpose: Customer-facing services
+    approval_required: true
+    credentials: Use the organization's approved secret store
